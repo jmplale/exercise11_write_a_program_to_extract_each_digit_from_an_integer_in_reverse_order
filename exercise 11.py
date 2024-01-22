@@ -5,3 +5,6 @@ def reverse(number):
     # print the reverse
     print(reverse)
     return True
+
+# try the program
+reverse(7536)
